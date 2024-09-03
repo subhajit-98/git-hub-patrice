@@ -19,4 +19,19 @@
 
 ---
 
+# GitHub Release
+
+1. First checkout develop branch
+2. Make a new tag by `git tag v0.1.0`
+3. Show tag `git tag`
+4. Push that tag `git push origin v0.1.0`
+
+- Delete tag (Optional)
+
+1. Delete tag from local `git push origin -D v0.1.0`
+2. Delete tag from remote `git push origin --delete v0.1.0`
+
+---
+
+
 
