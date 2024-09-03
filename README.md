@@ -28,8 +28,8 @@
 
 - Delete tag (Optional)
 
-1. git push origin -D v0.1.0
-2. git push origin --delete v0.1.0
+1. Delete tag from local `git push origin -D v0.1.0`
+2. Delete tag from remote `git push origin --delete v0.1.0`
 
 ---
 
