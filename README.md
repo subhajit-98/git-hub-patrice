@@ -19,7 +19,9 @@
 
 ---
 
-# GitHub Release
+# GitHub Release/Tag
+
+### Lightweight tag
 
 1. First checkout develop branch
 2. Make a new tag by `git tag v0.1.0`
