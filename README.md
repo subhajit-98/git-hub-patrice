@@ -33,7 +33,7 @@
 1. Delete tag from local `git push origin -D v0.1.0`
 2. Delete tag from remote `git push origin --delete v0.1.0`
 
-### Anotated tag
+### Annotated tag
 
 1. First checkout develop branch
 2. Make a new tag using of parameter -a `git tag -a v0.2.0 -m "Second release."`
